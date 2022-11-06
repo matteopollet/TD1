@@ -5,8 +5,8 @@
 * [Fiche TD1](TD1.pdf).
 
 * Lien classroom :
-* * Groupe Q1:
-* * Groupe Q2:
-* * Groupe Q3:
-* * Groupe Q4:
-* * Groupe Q5: 
+* * [Groupe Q1](https://classroom.github.com/a/OgIiJVVJ)
+* * [Groupe Q2]()
+* * [Groupe Q3]()
+* * [Groupe Q4]()
+* * [Groupe Q5]()
